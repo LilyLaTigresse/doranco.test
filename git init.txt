@@ -1,0 +1,3 @@
+git init
+
+git graph pour voir les changements que j'ai fait 
